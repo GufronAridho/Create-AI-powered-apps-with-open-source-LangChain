@@ -1,7 +1,7 @@
 import gradio as gr
 from langchain_openai import ChatOpenAI
 
-openai_api_key = "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"
+openai_api_key = ""
 
 # Define the model
 llm = ChatOpenAI(
